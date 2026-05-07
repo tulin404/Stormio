@@ -1,5 +1,6 @@
 # ⛅ STORMIO
 ### A non profitable, made with free and open-source tools Weather Web Application.
+### Designed to deliver fast, localized weather information with a simple and responsive interface.
 # ✨ FEATURES
 - **Worldwide weather data coverage**
 - **World's most spoken languages supported**
@@ -20,4 +21,5 @@
 - [Meteocons](https://basmilius.github.io/weather-icons/)
 - [Flag Icons](https://flagicons.lipis.dev/)
 
-PS: I could not find a free reliable translation API, so the translation is unstable.
+## ⚠️ Note
+Translation support is currently unstable due to the lack of a fully reliable free translation API. Improvements or replacements are planned in future iterations.
