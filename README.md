@@ -19,7 +19,7 @@
 - **Automatic location detection**
 - **Responsive layout and theme**
 - **Optmized code structure**
-<h3>Main panel with the main indormations + translation and search options.</h3>
+<h3>Main panel with the main informations + translation and search options.</h3>
 <img src="https://github.com/tulin404/stormio/blob/main/public/stormio-screenshot-1.png" alt="Stormio screenshot 1" />
 <h3>Extra panel with 7 day forecast.</h3>
 <img src="https://github.com/tulin404/stormio/blob/main/public/stormio-screenshot-2.png" alt="Stormio screenshot 2" />
