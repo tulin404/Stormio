@@ -1,10 +1,14 @@
-# ⛅ STORMIO
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![CI](https://img.shields.io/badge/CI-passing-brightgreen)
-![Vercel](https://img.shields.io/badge/deploy-vercel-black?logo=vercel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-v4-38B2AC?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-vanilla-F7DF1E?logo=javascript&logoColor=black)
-![Open Source](https://img.shields.io/badge/open--source-lightgrey)
+<h1 align="center">⛅ STORMIO</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/build-passing-brightgreen" />
+<img src="https://img.shields.io/badge/CI-passing-brightgreen" />
+<img src="https://img.shields.io/badge/deploy-vercel-black?logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-v4-38B2AC?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-vanilla-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/open--source-blue" />
+</p>
+
 ### A non profitable, made with free and open-source tools Weather Web Application.
 ### Designed to deliver fast, localized weather information with a simple and responsive interface.
 # ✨ FEATURES
@@ -20,7 +24,7 @@
 <h3>Extra panel with 7 day forecast.</h3>
 <img src="https://github.com/tulin404/stormio/blob/main/public/stormio-screenshot-2.png" alt="Stormio screenshot 2" />
 
-# 🤖 STACK
+<h1>🤖 STACK</h1>
 - HTML, JS
 - Tailwind v4
 - [Vercel](https://vercel.com/) (Serverless backend with Node.js)
@@ -29,13 +33,13 @@
 - [IP API](https://ip-api.com/)
 - [Choices.js](https://github.com/Choices-js/Choices) (CDN)
 
-# ⚙️ ARCHITECTURE
+<h1>⚙️ ARCHITECTURE</h1>
 
 <p>
 As an entry-level fullstack project, the application uses raw HTML with Tailwind CSS v4 and vanilla JavaScript for DOM manipulation on the frontend, while backend logic and API routes are handled through Vercel Serverless Functions.
 </p>
 
-# 🎨 ASSETS
+<h1>🎨 ASSETS</h1>
 - [Meteocons](https://basmilius.github.io/weather-icons/)
 - [Flag Icons](https://flagicons.lipis.dev/)
 
