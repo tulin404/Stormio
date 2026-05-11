@@ -25,6 +25,7 @@
 <img src="https://github.com/tulin404/stormio/blob/main/public/stormio-screenshot-2.png" alt="Stormio screenshot 2" />
 
 <h1>🤖 STACK</h1>
+
 - HTML, JS
 - Tailwind v4
 - [Vercel](https://vercel.com/) (Serverless backend with Node.js)
@@ -40,6 +41,7 @@ As an entry-level fullstack project, the application uses raw HTML with Tailwind
 </p>
 
 <h1>🎨 ASSETS</h1>
+
 - [Meteocons](https://basmilius.github.io/weather-icons/)
 - [Flag Icons](https://flagicons.lipis.dev/)
 
