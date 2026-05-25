@@ -9,16 +9,17 @@
 <img src="https://img.shields.io/badge/open--source-blue" />
 </p>
 
-### A non profitable, made with free and open-source tools Weather Web Application.
-### Designed to deliver fast, localized weather information with a simple and responsive interface.
-# ✨ FEATURES
+<h3 align="center">A non profitable, made with free and open-source tools Weather Web Application.</h3>
+<h3 align="center">Designed to deliver fast, localized weather information with a simple and responsive interface.</h3>
+
+<h1>✨ FEATURES</h1>
+
 - **Worldwide weather data coverage**
 - **World's most spoken languages supported**
 - **Low latency on API calls for almost instant results**
 - **Built-in cache system for wheater information and translations**
 - **Automatic location detection**
 - **Responsive layout and theme**
-- **Optmized code structure**
 <h3>Main panel with the main informations + translation and search options.</h3>
 <img src="https://github.com/tulin404/stormio/blob/main/public/stormio-screenshot-1.png" alt="Stormio screenshot 1" />
 <h3>Extra panel with 7 day forecast.</h3>
