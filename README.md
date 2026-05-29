@@ -1,5 +1,6 @@
-<h1 align="center">⛅ STORMIO</h1>
-
+<p align="center">
+  <img src="./public/Stormio.png" height="120px" />
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-brightgreen" />
 <img src="https://img.shields.io/badge/CI-passing-brightgreen" />
