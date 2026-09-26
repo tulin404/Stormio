@@ -48,4 +48,4 @@ As an entry-level fullstack project, the application uses raw HTML with Tailwind
 - [Flag Icons](https://flagicons.lipis.dev/)
 
 ## ⚠️ Note
-Translation support is currently unstable due to the lack of a fully reliable free translation API. Improvements or replacements are planned in future iterations.
+Translation support is currently unstable due to the lack of a fully reliable free translation API.
